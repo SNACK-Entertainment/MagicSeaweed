@@ -1,0 +1,2 @@
+# MagicSeaweed
+ MagicSeaweed game project
